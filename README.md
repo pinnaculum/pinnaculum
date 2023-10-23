@@ -1,3 +1,1 @@
-*pinnaculum* (Latin), pronounced *pea*-*nah*-*cool*-*oom*
-
-All of my work is done on GitLab as [@cipres](https://gitlab.com/cipres).
+I don't use this platform anymore (only keeping a few mirror repos around). All my opensource work is done on GitLab as [@cipres](https://gitlab.com/cipres).
